@@ -1,0 +1,15 @@
+Queue | pair-programming | advisor meetings | message instructor or mentor
+
+A = Q
+B = S
+C = E
+D = R
+E = D
+F = G
+G = 
+I = M
+L = P
+P = I
+Q = N
+Y = O
+Z = A
